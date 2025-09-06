@@ -1,0 +1,12 @@
+# .gitignore
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Other common Python/Django ignores
+__pycache__/
+*.pyc
+db.sqlite3
